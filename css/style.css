@@ -1,0 +1,362 @@
+p{
+    margin: 5px 0;
+}
+.menu{
+    position: relative;
+    text-align: center;
+    color: #a2a2a2;
+    padding: 15% 0;
+}
+.menu h2{
+    color: #fff;
+    font-size: 60px;
+    margin-bottom: 4px;
+    margin-top: 0;
+}
+.bg-filipinas{
+	background-image: url("../img/phillippines.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 25%;
+}
+	
+.bg-body{
+	background-image: url("../img/pink-skincare-35mminstyle-15.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 25%;
+}
+.bg-roatan{
+	background-image: url("../img/roatan-honduras-beach.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 25%;
+}
+.bg-cartagena{
+	background-image: url("../img/1559394721_112041_1559395133_noticia_normal.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 25%;
+}
+
+.bg-bora{
+	background-image: url("../img/bora-bora.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 25%;
+}
+.texto{
+	text-align: left;
+    position: inherit;
+    width: 100%;
+    height: 100%;
+    top:0;
+    display: grid;
+    align-content: center;
+	color: #FFFFFF;
+	font-size: 30px;
+	padding-left: 5%;
+	padding-bottom: 0px;
+	padding-top: 10%;
+}
+.texto-menu h5{
+	font-size: 12px;
+	padding-left: 5%;
+}
+.texto-menu h3{
+	font-size: 30px;
+}
+.img-fluid{
+    max-width: 100%;
+}
+.list-menu img{
+    width: 100px;
+}
+
+
+.list-menu{
+    margin-top: 0 !important;
+    color: #C7C7C7;
+    font-size: 14px !important;
+}
+.list-menu .item-header{
+    color: #827B76;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    margin-bottom: 2px;
+}
+.list-menu .item-footer{
+    color: #1AA575 !important;
+    font-weight: 400 !important;
+    margin: 2px 0;
+}
+
+.precio-menu{
+	position: absolute;
+    width: 60px;
+    background-color: #F752E1;
+	margin: -20px 0;
+    bottom: 25px;
+    right: 30px;
+    color: #fff;
+    display: grid;
+    align-content: center;
+	font-weight: 500;
+	font-size: 20px;
+	border-radius: 30px;
+	padding: 1%;
+	margin-bottom: 1px;
+}
+
+.texto-menu{
+	position:absolute;
+	width: 100%;
+	bottom: 0;
+	background-color: #000000;
+	text-align: left;
+	padding: 2px 5%;
+	font-size: 12px;
+	color: #fff;
+	font-weight: 100px;
+}
+
+
+
+
+.hero-drinks{
+    background-image: url("../img/espresso-bg-2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20% 0;
+    text-align: center;
+    position: relative;
+}
+.hero-drinks h2{
+    font-size: 34px !important;
+    color: #fff !important;
+    font-weight: 600 !important;
+}
+.hero-drinks p{
+    font-size: 14px !important;
+    color: #fff !important;
+    font-weight: 300 !important;
+}
+
+.card-drinks{
+    background-color: #f3f3f3;
+    padding: 10px;
+}
+.card-header h3{
+    color: #5C5C5E !important;
+    font-size: 16px !important;
+    margin: 0;
+}
+.card-content{
+    text-align: center;
+}
+.card-content img{
+    width: 120px;
+    margin: 0 auto;
+}
+.card-footer{
+    color: #0d9f67 !important;
+    font-weight: 400 !important;
+}
+
+.img-center{
+	margin: 20px auto;
+	display: block
+}
+.titulo{
+	font-size: 16px;
+	color: #5C5C5E !important;
+	font-weight: 600;
+}
+.precio{
+	font-size: 16px;
+	color: #0d9f67 !important;
+	text-align: right;
+	font-weight: 600;
+}
+.contenido{
+	font-size: 14px;
+	color: #5C5C5E;
+	margin: 30px 0;
+}
+.button{
+	margin-bottom: 5px !important;
+	text-transform: inherit !important;
+}
+.btn-verde{
+	background-color: #0d9f67 !important;
+	color: #fff !important;
+	display: block !important;
+	text-align: center;
+	width: 100%;
+	border-radius: 0 !important;
+}
+.btn-gris{
+	background-color: #fff !important;
+	color: #5C5C5E !important;
+	display: block !important;
+	text-align: center;
+	width: 100%;
+	border-radius: 0 !important;
+	border:1px solid #ccc !important;
+}
+
+.navbar,
+.toolbar{
+	background-color: #FFFFFF;
+}
+.navbar a,
+.toolbar a{
+	color: #FFFFFF;
+}
+a{
+	color: #EA78CD !important;
+}
+
+.swiper-wrapper img{
+	width: 150px;
+	margin: 20px auto;
+	display: block;
+}
+
+
+.popup-confirm{
+	color: #ccc;
+	text-align: center;
+}
+.icon-done{
+	width: 150px;
+	height: 150px;
+	line-height: 150px;
+	border-radius: 100%;
+	background-color: #c9f4c9;
+	color: #fff;
+	text-align: center;
+	margin: auto;
+	display: block;
+}
+.icon-done i{
+	font-size: 60px;
+}
+
+.row{
+	text-align: center;
+	
+}
+.col-titulo {
+	text-align: center;
+	font-size: 14px;
+	color: #E316A2
+}
+
+.titulo-p{
+	font-size: 20px;
+	color: #DADADA !important;
+	font-weight: 600;
+	text-align: center;
+	margin-top: 10%;
+}
+.precio-p{
+	font-size: 20px;
+	color: #E316A2 ;
+	text-align: center !important;
+	font-weight: 600;
+}
+.btn-negro{
+	background-color:  #E316A2 !important;
+	color: #fff !important;
+	display: block !important;
+	text-align: center;
+	width: 100%;
+	border-radius: 0 !important;
+}
+.btn-gris{
+	background-color: #fff !important;
+	color: #5C5C5E !important;
+	display: block !important;
+	text-align: center;
+	width: 100%;
+	border-radius: 0 !important;
+	border:1px solid #ccc !important;
+}
+
+body{
+  background-color: lightgrey;
+  font-family: sans-serif;
+}
+
+.container{
+  margin: auto;
+  background-color: white;
+  width: 800px;
+  padding: 30px;
+}
+
+ul, li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+ul.slider{
+  position: relative;
+  width: 800px;
+  height: 300px;
+}
+
+ul.slider li {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    opacity: 0;
+    width: inherit;
+    height: inherit;
+    transition: opacity .5s;
+    background:#fff;
+}
+
+ul.slider li img{
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+ul.slider li:first-child {
+    opacity: 1; /*Mostramos el primer <li>*/
+}
+
+ul.slider li:target {
+    opacity: 1; /*Mostramos el <li> del enlace que pulsemos*/
+}
+
+.menu{
+  text-align: center;
+  margin: 20px;
+}
+
+.menu li{
+  display: inline-block;
+  text-align: center;
+}
+
+.menu li a{
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  background-color: grey;
+  padding: 10px;
+  width: 20px;
+  height: 20px;
+  font-size: 20px;
+  border-radius: 100%;
+}
